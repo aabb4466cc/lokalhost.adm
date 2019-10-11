@@ -1,0 +1,2 @@
+# lokalhost.adm
+Player pemula
